@@ -9,12 +9,12 @@ const SignInFrom =()=>{
                     <div className="row">
                         <div className="col-lg-5">
                             <div className="sign_info_content">
-                                <h3 className="f_p f_600 f_size_24 t_color3 mb_40">First time here?</h3>
-                                <h2 className="f_p f_400 f_size_30 mb-30">Join now and get<br/> <span className="f_700">20% OFF</span> for all <br/> products</h2>
+                                <h3 className="f_p f_600 f_size_24 t_color3 mb_40">New to NOLA Broadband?</h3>
+                                <h2 className="f_p f_400 f_size_30 mb-30">Join now and get<br/> <span className="f_700">20% OFF</span> for your <br/> first month</h2>
                                 <ul className="list-unstyled mb-0">
-                                    <li><i className="ti-check"></i> Premium Access to all Products</li>
-                                    <li><i className="ti-check"></i> Free Testing Tools</li>
-                                    <li><i className="ti-check"></i> Unlimited User Accounts</li>
+                                    <li><i className="ti-check"></i> Stream HD video</li>
+                                    <li><i className="ti-check"></i> Game without lag</li>
+                                    <li><i className="ti-check"></i> No contract needed</li>
                                 </ul>
                                 <button type="submit" className="btn_three sign_btn_transparent">Sign Up</button>
                             </div>
