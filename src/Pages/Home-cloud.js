@@ -16,11 +16,11 @@ const HomeCloud = () => {
         <div className="body_wrapper">
             <CustomNavbar slogo="sticky_logo" mClass="menu_four" nClass="w_menu" hbtnClass="btn_get_radious menu_custfive"/>
             <CloudBanner/>
-            <CloudService/>
             <CloudFeatures/>
+            <CloudService/>
             <CloudServiceTab/>
-            <CloudFeaturesTwo/>
-            <DeveloperTab/>
+            <CloudFeaturesTwo/>{/* 
+            <DeveloperTab/> */}
             <Partner pClass="partner_logo_area_two" pClasst="pt-0 mb-0"/>
             <ServiceSubscribe/>
             <FooterTwo fClass="pt_150" FooterData={FooterData}/>

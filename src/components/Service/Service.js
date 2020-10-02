@@ -45,6 +45,7 @@ const Service = () => {
                                 </div>
                             </div>
                         </Fade>
+                        
                         <div className="col-lg-12 text-center mt_40">
                             <a href="/Price" className="seo_btn seo_btn_one btn_hover">Pricing and Plans</a>
                         </div>

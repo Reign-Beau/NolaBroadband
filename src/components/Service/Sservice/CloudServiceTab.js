@@ -6,28 +6,25 @@ const CloudServiceTab =()=>{
     return(
         <section className="software_service_area sec_pad">
             <div className="container">
-                <Sectitle Title="Seamlessly go from deploying to scaling." TitleP="Tickety-boo cheers plastered twit chimney pot off his nut hotpot spend a penny have it, so I said squiffy A bit of how's your father."
+                <Sectitle Title="Speeds that match your expectations, prices that exceed them." TitleP="Check below to see what we offer. Need something that's not listed? #CONTACT# us, we're up for the challenge."
                  sClass="sec_title text-center mb_70"/>
                 <div className="row">
                     <div className="col-lg-3 col-md-3">
                         <ul className="nav nav-tabs software_service_tab" id="myTab" role="tablist">
                             <li className="nav-item">
-                                <a className="nav-link active" id="de-tab" data-toggle="tab" href="#de" role="tab" aria-controls="de" aria-selected="true">Deploy</a>
+                                <a className="nav-link active" id="de-tab" data-toggle="tab" href="#de" role="tab" aria-controls="de" aria-selected="true">Residential</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" id="saas-tab" data-toggle="tab" href="#saas" role="tab" aria-controls="saas" aria-selected="false">NolaBB</a>
+                                <a className="nav-link" id="saas-tab" data-toggle="tab" href="#saas" role="tab" aria-controls="saas" aria-selected="false">Business</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" id="ma-tab" data-toggle="tab" href="#ma" role="tab" aria-controls="ma" aria-selected="true">Manage</a>
+                                <a className="nav-link" id="ma-tab" data-toggle="tab" href="#ma" role="tab" aria-controls="ma" aria-selected="true">Phone</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" id="secure-tab" data-toggle="tab" href="#secure" role="tab" aria-controls="secure" aria-selected="false">Secure</a>
+                                <a className="nav-link" id="secure-tab" data-toggle="tab" href="#secure" role="tab" aria-controls="secure" aria-selected="false">Property Owners</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" id="scale-tab" data-toggle="tab" href="#scale" role="tab" aria-controls="scale" aria-selected="true">Scale</a>
-                            </li>
-                            <li className="nav-item">
-                                <a className="nav-link" id="monitor-tab" data-toggle="tab" href="#monitor" role="tab" aria-controls="monitor" aria-selected="false">Monitor</a>
+                                <a className="nav-link" id="monitor-tab" data-toggle="tab" href="#monitor" role="tab" aria-controls="monitor" aria-selected="false">Events and Projects</a>
                             </li>
                         </ul>
                     </div>

@@ -5,7 +5,7 @@ const CloudFeatures =()=>{
     return(
         <section className="design_developers_area sec_pad">
             <div className="container">
-                <Sectitle Title="Your design process, in one place" TitleP="WShow off show off pick your nose and blow off Elizabeth grub haggle dropped a clanger cracking.!"
+                <Sectitle Title="We were born in NOLA." TitleP="We’re proud to be working everyday to bring a new type of internet to the area."
                  sClass="sec_title text-center mb_70"/>
                 <div className="row">
                     <div className="col-lg-7 col-md-7">
@@ -20,7 +20,8 @@ const CloudFeatures =()=>{
                     </div>
                 </div>
                 <div className="text-center wow fadeInUp" data-wow-delay="0.4s">
-                    <a href="/#" className="btn_hover btn_four mt_70">API Documentation</a>
+                    <a href="/#" className="btn_hover btn_four mt_70">Residential</a>
+                    <a href="/#" className="btn_hover btn_four mt_70">Business</a>
                 </div>
             </div>
         </section>

@@ -29,9 +29,16 @@ class Contacts extends Component {
                                 <p className="f_400 f_size_15">1612 Barataria Blvd<br /> Marrero, Louisiana 70072</p>
                             </div>
                             <div className="contact_info_item">
+                                <h6 className="f_p f_size_20 t_color3 f_500 mb_20">Mailing Address</h6>
+                                <p className="f_400 f_size_15">PO BOX 3466,<br /> Harvey, Louisiana 70059</p>
+                            </div>
+                            <div className="contact_info_item">
                                 <h6 className="f_p f_size_20 t_color3 f_500 mb_20">Contact Info</h6>
-                                <p className="f_400 f_size_15"><span className="f_400 t_color3">Phone:</span> <a href="tel:18334386652">1-833-GET-NOLA</a></p>
-                                <p className="f_400 f_size_15"><span className="f_400 t_color3">Email:</span> <a href="mailto:info@nolabroadband.com">info@nolabroadband.com</a></p>
+                                <p className="f_400 f_size_15"><span className="f_400 t_color3">Phone Sales:</span> <a href="tel:18334386652">1-833-GET-NOLA</a></p>
+                                <p className="f_400 f_size_15"><span className="f_400 t_color3">Phone Support:</span> <a href="tel:18336652638">1-833-NOLA-NET</a></p>
+                                <p className="f_400 f_size_15"><span className="f_400 t_color3">Phone Local:</span> <a href="tel:15042085432">504-208-5432</a></p><br />
+                                <p className="f_400 f_size_15"><span className="f_400 t_color3">Email Sales:</span> <a href="mailto:sales@nolabroadband.com">sales@nolabroadband.com</a></p>
+                                <p className="f_400 f_size_15"><span className="f_400 t_color3">Email Support:</span> <a href="mailto:info@nolabroadband.com">info@nolabroadband.com</a></p>
                             </div>
                         </div>
                         <div className="contact_form col-lg-9">
