@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.2ff09566.chunk.css",
-    "main.js": "/static/js/main.c8912ed7.chunk.js",
-    "main.js.map": "/static/js/main.c8912ed7.chunk.js.map",
+    "main.css": "/static/css/main.287ce3e1.chunk.css",
+    "main.js": "/static/js/main.5fb6f4f7.chunk.js",
+    "main.js.map": "/static/js/main.5fb6f4f7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c6c6aa21.js",
     "runtime-main.js.map": "/static/js/runtime-main.c6c6aa21.js.map",
-    "static/css/2.c5f7f512.chunk.css": "/static/css/2.c5f7f512.chunk.css",
-    "static/js/2.a916de2c.chunk.js": "/static/js/2.a916de2c.chunk.js",
-    "static/js/2.a916de2c.chunk.js.map": "/static/js/2.a916de2c.chunk.js.map",
+    "static/css/2.a45914fe.chunk.css": "/static/css/2.a45914fe.chunk.css",
+    "static/js/2.407be08a.chunk.js": "/static/js/2.407be08a.chunk.js",
+    "static/js/2.407be08a.chunk.js.map": "/static/js/2.407be08a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f5e5bd7c3254e672d0b44fcc44fd6b10.js": "/precache-manifest.f5e5bd7c3254e672d0b44fcc44fd6b10.js",
+    "precache-manifest.fefdbc58c90540727c9503707d815660.js": "/precache-manifest.fefdbc58c90540727c9503707d815660.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.c5f7f512.chunk.css.map": "/static/css/2.c5f7f512.chunk.css.map",
-    "static/css/main.2ff09566.chunk.css.map": "/static/css/main.2ff09566.chunk.css.map",
-    "static/js/2.a916de2c.chunk.js.LICENSE.txt": "/static/js/2.a916de2c.chunk.js.LICENSE.txt",
+    "static/css/2.a45914fe.chunk.css.map": "/static/css/2.a45914fe.chunk.css.map",
+    "static/css/main.287ce3e1.chunk.css.map": "/static/css/main.287ce3e1.chunk.css.map",
+    "static/js/2.407be08a.chunk.js.LICENSE.txt": "/static/js/2.407be08a.chunk.js.LICENSE.txt",
     "static/media/01.jpg": "/static/media/01.38d684ee.jpg",
     "static/media/0111.png": "/static/media/0111.8491142e.png",
     "static/media/02.jpg": "/static/media/02.ec75f7ff.jpg",
@@ -244,7 +244,7 @@
     "static/media/sheld_bg.png": "/static/media/sheld_bg.d9026d2c.png",
     "static/media/skyp_1.png": "/static/media/skyp_1.bd991e16.png",
     "static/media/skyp_2.png": "/static/media/skyp_2.c3b10084.png",
-    "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg",
+    "static/media/slick-theme.css": "/static/media/slick.d41f55a7.ttf",
     "static/media/startup_banner_img.png": "/static/media/startup_banner_img.b143a12c.png",
     "static/media/studies_img_one.jpg": "/static/media/studies_img_one.f501f7e5.jpg",
     "static/media/studies_img_three.jpg": "/static/media/studies_img_three.2676251b.jpg",
@@ -291,9 +291,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c6c6aa21.js",
-    "static/css/2.c5f7f512.chunk.css",
-    "static/js/2.a916de2c.chunk.js",
-    "static/css/main.2ff09566.chunk.css",
-    "static/js/main.c8912ed7.chunk.js"
+    "static/css/2.a45914fe.chunk.css",
+    "static/js/2.407be08a.chunk.js",
+    "static/css/main.287ce3e1.chunk.css",
+    "static/js/main.5fb6f4f7.chunk.js"
   ]
 }
