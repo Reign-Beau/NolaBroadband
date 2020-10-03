@@ -5,7 +5,6 @@ import CloudService from '../components/Service/CloudService';
 import CloudServiceTab from '../components/Service/Sservice/CloudServiceTab';
 import CloudFeatures from '../components/Features/CloudFeatures';
 import CloudFeaturesTwo from '../components/Features/CloudFeaturesTwo';
-import DeveloperTab from '../components/DeveloperTab';
 import Partner from '../components/Partner';
 import ServiceSubscribe from '../components/ServiceSubscribe';
 import FooterTwo from '../components/Footer/FooterTwo';
@@ -19,8 +18,7 @@ const HomeCloud = () => {
             <CloudFeatures/>
             <CloudService/>
             <CloudServiceTab/>
-            <CloudFeaturesTwo/>{/* 
-            <DeveloperTab/> */}
+            <CloudFeaturesTwo/>
             <Partner pClass="partner_logo_area_two" pClasst="pt-0 mb-0"/>
             <ServiceSubscribe/>
             <FooterTwo fClass="pt_150" FooterData={FooterData}/>
